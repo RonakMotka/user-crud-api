@@ -1,0 +1,7 @@
+# Custom
+__pycache__
+.vscode
+.idea
+venv
+config.py
+.DS_Store
